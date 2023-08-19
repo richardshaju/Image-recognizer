@@ -1,1 +1,11 @@
-{"andrew": 0, "elon musk": 1, "lionel messi": 2, "mr beast": 3, "tristain tate": 4}
+{
+    "andrew": 0,
+    "dhoni": 1,
+    "elon_musk": 2,
+    "florence_pugh": 3,
+    "lionel_messi": 4,
+    "margot_robbie": 5,
+    "mr_beast": 6,
+    "ratan_tata": 7,
+    "sharukh_khan": 8
+}
